@@ -37,7 +37,7 @@ Our Choice is an educational and advocacy-focused web project visualizing the im
 
 ## 🤝 Credits & Acknowledgments
 
-- Created by Skylar, Diana, Haley, and Niomy – Student researchers and storytellers
+- Created by Skylar, Diana, Haley, and Niomy
 - ArcGIS StoryMap integration made possible through Esri’s public tools
 - Data sourced from:
   - Guttmacher Institute
@@ -48,7 +48,7 @@ Our Choice is an educational and advocacy-focused web project visualizing the im
 
 ## 📣 Why It Matters
 
-This project was developed to spark conversation and provide clarity in a politically charged space. We believe that **data + empathy = action** — and we hope Our Choice helps inform and empower others to protect reproductive freedom.
+This project was developed to spark conversation and provide clarity in a politically charged space. We hope Our Choice helps inform and empower others to protect reproductive freedom.
 
 ---
 
