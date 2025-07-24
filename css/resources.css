@@ -1,0 +1,82 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #ffffff;
+}
+html, body{
+  margin: 0;
+  padding: 0;
+}
+h2{
+  font-size: 15px;
+}
+.titles{
+  color: #7406a7;
+  font-family: "Open Sans", serif; 
+  font-weight:"bold";
+}
+.navbar {
+  height: 50px;
+  margin: auto;
+  background-color: none;
+  text-align: center;
+}
+.navbarLinks{
+  display: inline-block;
+}
+
+.navbar:hover {
+ rgba(0,0,0,0.3);
+}
+.navbar a {
+  float: center;
+  padding: 10px;
+  color: #767676;
+  text-decoration: none;
+  font-size: 20px; 
+  font-padding: 10px;
+  height: 50%;
+  border-bottom: 2px solid #a6a6a6;
+}
+
+.navbar a:hover {
+  color: #d899f5;
+  border-bottom-color:black;
+}
+
+.navbar .active {
+  color: #7406a7;
+  font-weight: bold;
+}
+.container{
+  width: 100%;
+}
+p {
+  font-size: 25px;
+  color:#7406a7;
+  width: 80%;
+  margin-left: 10%;
+}
+.resourcetitles{
+  font-size: 22px; 
+  color:#7406a7;
+  width: 80%; 
+  margin-left: 1%;
+  margin-right: 79%;
+} 
+.resources{
+  font-size: 18px;
+  color:#206020;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 70%;
+}
+button{
+  border: none;
+  background-color: #a069b0;
+  padding: 15px 32px;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  align: left;
