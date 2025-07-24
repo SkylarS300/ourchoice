@@ -12,7 +12,7 @@ Our Choice is an educational and advocacy-focused web project visualizing the im
 - 🗺️ Integrated **ArcGIS StoryMaps** for interactive, map-based storytelling
 - 🧪 Used **Seaborn**, **Matplotlib**, and **Looker Studio** for data analysis and visualization
 - 👥 Centered **lived experiences** and linked **real-world reproductive health resources**
-- 📈 Reached over **10,000 public viewers**, raising awareness on reproductive rights
+- 📈 Reached **100 viewers**, raising awareness on reproductive rights
 
 ---
 
